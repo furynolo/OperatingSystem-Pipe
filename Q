@@ -1,0 +1,3 @@
+echo ./mk ./q
+sudo ./mk
+./q
